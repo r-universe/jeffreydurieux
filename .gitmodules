@@ -7,4 +7,5 @@
 	path = CICA
 	url = https://github.com/jeffreydurieux/cica
 	shallow = true
+	subdir = CICA
 	registered = true
